@@ -34,7 +34,7 @@ return (
 <input
 type="text"
 name="username"
-placeholder="Username"
+placeholder="User Name"
 onChange={handleChange}
 required
 />

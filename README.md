@@ -2,5 +2,5 @@
 # fullstack_developer_capstone
 
 Repository: xrwvm-fullstack_developer_capstone
-
+Project name: fullstack_developer_capstone
 This repository contains the Full Stack Developer Capstone project built using Django.
